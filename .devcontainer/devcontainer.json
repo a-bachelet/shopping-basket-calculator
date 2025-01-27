@@ -1,0 +1,7 @@
+{
+	"name": "Technical Test",
+	"build": {
+		"context": "..",
+		"dockerfile": "../Dockerfile"
+	}
+}
